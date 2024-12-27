@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Shaheer Rehan
-- 👀 I’m interested in using **Data Science** and **Machine Learning** to develop data-driven solutions, deliver impactful insights, and drive AI innovation!  
-- 🌱 I have recently completed my **Masters in Artificial Intelligence & Data Science**.
-- 💞️ I’m looking to collaborate on **open-source projects** and **research** on finetuning LLMs for downstream applications.
+- 👀 I’m interested in using **Data Science** and **Machine Learning** to develop data-driven solutions, deliver impactful insights, and promote informed decision-making!  
+- 🌱 I have recently graduated with **Distinction** in **Masters in Artificial Intelligence & Data Science**.
+- 💞️ I’m looking to collaborate on **open-source projects** and **research** on finetuning LLMs, retrieval augmented generation (RAG), predictive modelling, and data analysis.
 - 📫 You can reach me at shaheer_rehan@yahoo.com
 - 😄 Pronouns: He/Him
-- 🤔 My interests include LLM finetuning, social network analysis, and software testing
+- 🤔 My interests include LLM finetuning, RAG, predictive modelling, database management, and developing ETL pipelines.
 - ⚡ Fun fact: I placed First in all of South Asia in the International Youth Math Challenge 2019
 
 ## Tech Stack
