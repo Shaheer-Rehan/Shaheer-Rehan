@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shaheer Rehan
 - 👀 I’m interested in using **Data Science** and **Machine Learning** to develop data-driven solutions, deliver impactful insights, and promote informed decision-making!  
 - 🌱 I have recently graduated with **Distinction** in **Masters in Artificial Intelligence & Data Science**.
-- 💞️ I’m looking to collaborate on **open-source projects** and **research** on finetuning LLMs, retrieval augmented generation (RAG), predictive modelling, and data analysis.
+- 💞️ I’m looking to collaborate on **open-source projects** and **research** on finetuning LLMs, retrieval augmented generation (RAG), agentic AI, and predictive modelling.
 - 📫 You can reach me at shaheer_rehan@yahoo.com
 - 😄 Pronouns: He/Him
 - 🤔 My interests include LLM finetuning, RAG, predictive modelling, database management, and developing ETL pipelines.
