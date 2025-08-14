@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **open-source projects** and **research** on finetuning LLMs, retrieval augmented generation (RAG), agentic AI, and predictive modelling.
 - 📫 You can reach me at shaheer_rehan@yahoo.com
 - 😄 Pronouns: He/Him
-- 🤔 My interests include LLM finetuning, RAG, predictive modelling, database management, and developing ETL pipelines.
+- 🤔 My interests include LLM finetuning, Agentic AI, RAG, predictive modelling, and database management.
 - ⚡ Fun fact: I placed First in all of South Asia in the International Youth Math Challenge 2019
 
 ## Tech Stack
